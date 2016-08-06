@@ -37,7 +37,7 @@ y = 1
 z = 2
 
 while z <= 4000000:
-    sumEven += z    # 2 is the first even number
+    sumEven += z # z always contains even numbers that are part of the sequence
 
     # moving x,y and z to their next values based on
     # the definition of fibonacci numbers
